@@ -1,0 +1,14 @@
+{
+  "name": "Kaç Para?",
+  "short_name": "Kaç Para?",
+  "lang": "tr",
+  "start_url": "/kac-para/",
+  "scope": "/kac-para/",
+  "display": "standalone",
+  "background_color": "#2F6FB3",
+  "theme_color": "#2F6FB3",
+  "icons": [
+    { "src": "ikon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "ikon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
